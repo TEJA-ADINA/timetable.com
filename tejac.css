@@ -1,0 +1,42 @@
+body {
+       background-image: url("C:\Users\INTEL\Desktop/logo.jpeg");
+background-size: cover;
+}
+
+#h  {
+       text-shadow: 2px 2px 5px red;
+}
+
+.tt
+{
+   text-align: center;
+   width: 150px;
+   
+}
+
+#anil {
+          background-color: pink;
+	 
+      }
+
+#malli {
+         background-color: beige;
+        }
+
+#naga {
+        background-color: peachpuff;
+       }
+
+#kamal {
+          background-color: lightcyan;
+}
+
+#pra
+   {
+    background-color: #FAFAD2;
+}
+
+#radhika
+   {
+       background-color: lightgray;
+}
